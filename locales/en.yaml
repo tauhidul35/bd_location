@@ -1,0 +1,148 @@
+en:
+  barisal:
+    barisal:
+      Agailjhara: Agailjhara
+      Babuganj: Babuganj
+      Bakerganj: Bakerganj
+      Banaripara: Banaripara
+      Barisal: Barisal Sadar
+      Gaurnadi: Gaurnadi
+      Hizla: Hizla
+      Mehendiganj: Mehendiganj
+      Muladi: Muladi
+      Wazirpur: Wazirpur
+    barguna:
+      Amtali: Amtali
+      Bamna: Bamna
+      Barguna: Barguna Sadar
+      Betagi: Betagi
+      Patharghata: Patharghata
+      Taltali: Taltali
+    bhola:
+      bhola: Bhola Sadar
+      burhanuddin: Burhanuddin
+      char_fasson: Char Fasson
+      daulatkhan: Daulatkhan
+      dokkhin_aicha: Dokkhin Aicha
+      lalmohan: Lalmohan
+      manpura: Manpura
+      shoshi_bhushon: Shoshi Bhushon
+      tazumuddin: Tazumuddin
+    jhalokati:
+      Jhalokati: Jhalokati Sadar
+      Kathalia: Kathalia
+      Nalchity: Nalchity
+      Rajapur: Rajapur
+    patuakhali:
+      Bauphal: Bauphal
+      Dashmina: Dashmina
+      Dumki: Dumki
+      Galachipa: Galachipa
+      Kalapara: Kalapara
+      Mirzaganj: Mirzaganj
+      Patuakhali: Patuakhali Sadar
+      Rangabali: Rangabali
+    pirojpur:
+      Bhandaria: Bhandaria
+      Kawkhali:	Kawkhali
+      Mathbaria: Mathbaria
+      Nazirpur: Nazirpur
+      Nesarabad: Nesarabad
+      Pirojpur: Pirojpur Sadar
+      Zianagar: Zianagar
+  chittagong:
+    brahmanbaria: Brahmanbaria
+    comilla: Comilla
+    chandpur: Chandpur
+    lakshmipur: Lakshmipur
+    noakhali: Noakhali
+    feni: Feni
+    chittagong: Chittagong
+    khagrachhari: Khagrachhari
+    rangamati: Rangamati
+    bandarban: Bandarban
+    coxs_bazar: Cox's Bazar
+  dhaka:
+    barisal:
+      a: "A"
+      b: "B"
+    barguna:
+      c: "C"
+    bhola:
+      d: "D"
+    jhalokati:
+      e: "E"
+    patuakhali:
+      f: "F"
+    pirojpur:
+      g: "G"
+  khulna:
+    barisal:
+      a: "A"
+      b: "B"
+    barguna:
+      c: "C"
+    bhola:
+      d: "D"
+    jhalokati:
+      e: "E"
+    patuakhali:
+      f: "F"
+    pirojpur:
+      g: "G"
+  mymensingh:
+    barisal:
+      a: "A"
+      b: "B"
+    barguna:
+      c: "C"
+    bhola:
+      d: "D"
+    jhalokati:
+      e: "E"
+    patuakhali:
+      f: "F"
+    pirojpur:
+      g: "G"
+  rajshahi:
+    barisal:
+      a: "A"
+      b: "B"
+    barguna:
+      c: "C"
+    bhola:
+      d: "D"
+    jhalokati:
+      e: "E"
+    patuakhali:
+      f: "F"
+    pirojpur:
+      g: "G"
+  rangpur:
+    barisal:
+      a: "A"
+      b: "B"
+    barguna:
+      c: "C"
+    bhola:
+      d: "D"
+    jhalokati:
+      e: "E"
+    patuakhali:
+      f: "F"
+    pirojpur:
+      g: "G"
+  sylhet:
+    barisal:
+      a: "A"
+      b: "B"
+    barguna:
+      c: "C"
+    bhola:
+      d: "D"
+    jhalokati:
+      e: "E"
+    patuakhali:
+      f: "F"
+    pirojpur:
+      g: "G"
