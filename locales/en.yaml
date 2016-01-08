@@ -166,86 +166,55 @@ en:
       Rajasthali: Rajasthali Upazila
       Rangamati: Rangamati Sadar Upazila
   dhaka:
-    barisal:
-      a: "A"
-      b: "B"
-    barguna:
-      c: "C"
-    bhola:
-      d: "D"
-    jhalokati:
-      e: "E"
-    patuakhali:
-      f: "F"
-    pirojpur:
-      g: "G"
+    dhaka: Dhaka
+    faridpur: Faridpur
+    gazipur: Gazipur
+    gopalganj: Gopalganj
+    kishoreganj: Kishoreganj
+    madaripur: Madaripur
+    manikganj: Manikganj
+    munshiganj: Munshiganj
+    narayanganj: Narayanganj
+    narsingdi: Narsingdi
+    rajbari: Rajbari
+    shariatpur: Shariatpur
+    tangail: Tangail
   khulna:
-    barisal:
-      a: "A"
-      b: "B"
-    barguna:
-      c: "C"
-    bhola:
-      d: "D"
-    jhalokati:
-      e: "E"
-    patuakhali:
-      f: "F"
-    pirojpur:
-      g: "G"
+    bagerhat: Bagerhat
+    chuadanga: Chuadanga
+    jessore: Jessore
+    jhenaidah: Jhenaidah
+    khulna: Khulna
+    kushtia: Kushtia
+    magura: Magura
+    meherpur: Meherpur
+    narail: Narail
+    satkhira: Satkhira
   mymensingh:
-    barisal:
-      a: "A"
-      b: "B"
-    barguna:
-      c: "C"
-    bhola:
-      d: "D"
-    jhalokati:
-      e: "E"
-    patuakhali:
-      f: "F"
-    pirojpur:
-      g: "G"
+    jamalpur: Jamalpur
+    mymensingh: Mymensingh
+    netrokona: Netrokona
+    sherpur: Sherpur
   rajshahi:
-    barisal:
-      a: "A"
-      b: "B"
-    barguna:
-      c: "C"
-    bhola:
-      d: "D"
-    jhalokati:
-      e: "E"
-    patuakhali:
-      f: "F"
-    pirojpur:
-      g: "G"
+    bogra: Bogra
+    chapainawabganj: Chapainawabganj
+    joypurhat: Joypurhat
+    naogaon: Naogaon
+    natore: Natore
+    pabna: Pabna
+    rajshahi: Rajshahi
+    sirajganj: Sirajganj
   rangpur:
-    barisal:
-      a: "A"
-      b: "B"
-    barguna:
-      c: "C"
-    bhola:
-      d: "D"
-    jhalokati:
-      e: "E"
-    patuakhali:
-      f: "F"
-    pirojpur:
-      g: "G"
+    dinajpur: Dinajpur
+    gaibandha: Gaibandha
+    kurigram: Kurigram
+    lalmonirhat: Lalmonirhat
+    nilphamari: Nilphamari
+    panchagarh: Panchagarh
+    rangpur: Rangpur
+    thakurgaon: Thakurgaon
   sylhet:
-    barisal:
-      a: "A"
-      b: "B"
-    barguna:
-      c: "C"
-    bhola:
-      d: "D"
-    jhalokati:
-      e: "E"
-    patuakhali:
-      f: "F"
-    pirojpur:
-      g: "G"
+    habiganj: Habiganj
+    moulvibazar: Moulvibazar
+    sunamganj: Sunamganj
+    sylhet: Sylhet
