@@ -1,24 +1,24 @@
 en:
   barisal:
     barguna:
-      Amtali: Amtali Upazila
-      Bamna: Bamna Upazila
-      Barguna: Barguna Sadar Upazila
-      Betagi: Betagi Upazila
-      Patharghata: Patharghata Upazila
-      Taltali: Taltali Upazila
+      amtali: Amtali Upazila
+      bamna: Bamna Upazila
+      barguna: Barguna Sadar Upazila
+      betagi: Betagi Upazila
+      patharghata: Patharghata Upazila
+      taltali: Taltali Upazila
     barisal:
-      Agailjhara: Agailjhara Upazila
-      Babuganj: Babuganj Upazila
-      Bakerganj: Bakerganj Upazila
-      Banaripara: Banaripara Upazila
-      Barisal: Barisal City
-      Barisal_sadar: Barisal Sadar Upazila
-      Gaurnadi: Gaurnadi Upazila
-      Hizla: Hizla Upazila
-      Mehendiganj: Mehendiganj Upazila
-      Muladi: Muladi Upazila
-      Wazirpur: Wazirpur Upazila
+      agailjhara: Agailjhara Upazila
+      babuganj: Babuganj Upazila
+      bakerganj: Bakerganj Upazila
+      banaripara: Banaripara Upazila
+      barisal: Barisal City
+      barisal_sadar: Barisal Sadar Upazila
+      gaurnadi: Gaurnadi Upazila
+      hizla: Hizla Upazila
+      mehendiganj: Mehendiganj Upazila
+      muladi: Muladi Upazila
+      wazirpur: Wazirpur Upazila
     bhola:
       bhola: Bhola Sadar Upazila
       burhanuddin: Burhanuddin Upazila
@@ -30,191 +30,551 @@ en:
       shoshi_bhushon: Shoshi Bhushon Upazila
       tazumuddin: Tazumuddin Upazila
     jhalokati:
-      Jhalokati: Jhalokati Sadar Upazila
-      Kathalia: Kathalia Upazila
-      Nalchity: Nalchity Upazila
-      Rajapur: Rajapur Upazila
+      jhalokati: Jhalokati Sadar Upazila
+      kathalia: Kathalia Upazila
+      nalchity: Nalchity Upazila
+      rajapur: Rajapur Upazila
     patuakhali:
-      Bauphal: Bauphal Upazila
-      Dashmina: Dashmina Upazila
-      Dumki: Dumki Upazila
-      Galachipa: Galachipa Upazila
-      Kalapara: Kalapara Upazila
-      Mirzaganj: Mirzaganj Upazila
-      Patuakhali: Patuakhali Sadar Upazila
-      Rangabali: Rangabali Upazila
+      bauphal: Bauphal Upazila
+      dashmina: Dashmina Upazila
+      dumki: Dumki Upazila
+      galachipa: Galachipa Upazila
+      kalapara: Kalapara Upazila
+      mirzaganj: Mirzaganj Upazila
+      patuakhali: Patuakhali Sadar Upazila
+      rangabali: Rangabali Upazila
     pirojpur:
-      Bhandaria: Bhandaria Upazila
-      Kawkhali:	Kawkhali Upazila
-      Mathbaria: Mathbaria Upazila
-      Nazirpur: Nazirpur Upazila
-      Nesarabad: Nesarabad Upazila
-      Pirojpur: Pirojpur Sadar Upazila
-      Zianagar: Zianagar Upazila
+      bhandaria: Bhandaria Upazila
+      kawkhali:	Kawkhali Upazila
+      mathbaria: Mathbaria Upazila
+      nazirpur: Nazirpur Upazila
+      nesarabad: Nesarabad Upazila
+      pirojpur: Pirojpur Sadar Upazila
+      zianagar: Zianagar Upazila
   chittagong:
     bandarban:
-      Ali_kadam: Ali kadam Upazila
-      Bandarban: Bandarban Sadar Upazila
-      Lama: Lama Upazila
-      Naikhongchhari: Naikhongchhari Upazila
-      Rowangchhari: Rowangchhari Upazila
-      Ruma: Ruma Upazila
-      Thanchi: Thanchi Upazila
+      ali_kadam: Ali kadam Upazila
+      bandarban: Bandarban Sadar Upazila
+      lama: Lama Upazila
+      naikhongchhari: Naikhongchhari Upazila
+      rowangchhari: Rowangchhari Upazila
+      ruma: Ruma Upazila
+      thanchi: Thanchi Upazila
     brahmanbaria:
-      Akhaura: Akhaura Upazila
-      Ashuganj: Ashuganj Upazila
-      Bancharampur: Bancharampur Upazila
-      Bijoynagar: Bijoynagar Upazila
-      Brahmanbaria: Brahmanbaria Sadar Upazila
-      Kasba: Kasba Upazila
-      Nabinagar: Nabinagar Upazila
-      Nasirnagar: Nasirnagar Upazila
-      Sarail: Sarail Upazila
+      akhaura: Akhaura Upazila
+      ashuganj: Ashuganj Upazila
+      bancharampur: Bancharampur Upazila
+      bijoynagar: Bijoynagar Upazila
+      brahmanbaria: Brahmanbaria Sadar Upazila
+      kasba: Kasba Upazila
+      nabinagar: Nabinagar Upazila
+      nasirnagar: Nasirnagar Upazila
+      sarail: Sarail Upazila
     chandpur:
-      Chandpur: Chandpur Sadar Upazila
-      Faridganj: Faridganj Upazila
-      Haimchar: Haimchar Upazila
-      Haziganj:
-      Kachua: Kachua Upazila
-      Matlab_dakkhin: Matlab Dakkhin Upazila
-      Matlab_uttar: Matlab Uttar Upazila
-      Shahrasti: Shahrasti Upazila
+      chandpur: Chandpur Sadar Upazila
+      faridganj: Faridganj Upazila
+      haimchar: Haimchar Upazila
+      haziganj:
+      kachua: Kachua Upazila
+      matlab_dakkhin: Matlab Dakkhin Upazila
+      matlab_uttar: Matlab Uttar Upazila
+      shahrasti: Shahrasti Upazila
     chittagong:
-      Anwara: Anwara Upazila
-      Banshkhali: Banshkhali Upazila
-      Boalkhali: Boalkhali Upazila
-      Chandanaish: Chandanaish Upazila
+      anwara: Anwara Upazila
+      banshkhali: Banshkhali Upazila
+      boalkhali: Boalkhali Upazila
+      chandanaish: Chandanaish Upazila
       chittagong: Chittagong City
-      Fatikchhari: Fatikchhari Upazila
-      Hathazari: Hathazari Upazila
-      Lohagara: Lohagara Upazila
-      Mirsharai: Mirsharai Upazila
-      Patiya: Patiya Upazila
-      Rangunia: Rangunia Upazila
-      Raozan: Raozan Upazila
-      Sandwip: Sandwip Upazila
-      Satkania: Satkania Upazila
-      Sitakunda: Sitakunda Upazila
+      fatikchhari: Fatikchhari Upazila
+      hathazari: Hathazari Upazila
+      lohagara: Lohagara Upazila
+      mirsharai: Mirsharai Upazila
+      patiya: Patiya Upazila
+      rangunia: Rangunia Upazila
+      raozan: Raozan Upazila
+      sandwip: Sandwip Upazila
+      satkania: Satkania Upazila
+      sitakunda: Sitakunda Upazila
     comilla:
-      Barura: Barura Upazila
-      Brahmanpara: Brahmanpara Upazila
-      Burichang: Burichang Upazila
-      Chandina: Chandina Upazila
-      Chauddagram: Chauddagram Upazila
-      Comilla_adarsha_sadar: Comilla Adarsha Sadar Upazila
-      Comilla: Comilla City
-      Comilla_sadar_dakshin: Comilla Sadar Dakshin Upazila
-      Daudkandi: Daudkandi Upazila
-      Debidwar: Debidwar Upazila
-      Homna: Homna Upazila
-      Laksam: Laksam Upazila
-      Meghna: Meghna Upazila
-      Monohargonj: Monohargonj Upazila
-      Muradnagar: Muradnagar Upazila
-      Nangalkot: Nangalkot Upazila
-      Titas: Titas Upazila
+      barura: Barura Upazila
+      brahmanpara: Brahmanpara Upazila
+      burichang: Burichang Upazila
+      chandina: Chandina Upazila
+      chauddagram: Chauddagram Upazila
+      comilla_adarsha_sadar: Comilla Adarsha Sadar Upazila
+      comilla: Comilla City
+      comilla_sadar_dakshin: Comilla Sadar Dakshin Upazila
+      daudkandi: Daudkandi Upazila
+      debidwar: Debidwar Upazila
+      homna: Homna Upazila
+      laksam: Laksam Upazila
+      meghna: Meghna Upazila
+      monohargonj: Monohargonj Upazila
+      muradnagar: Muradnagar Upazila
+      nangalkot: Nangalkot Upazila
+      titas: Titas Upazila
     coxs_bazar:
-      Chakaria: Chakaria Upazila
-      Coxs_Bazar: Cox's Bazar Sadar Upazila
-      Kutubdia: Kutubdia Upazila
-      Maheshkhali: Maheshkhali Upazila
-      Pekua: Pekua Upazila
-      Ramu: Ramu Upazila
-      Teknaf: Teknaf Upazila
-      Ukhia: Ukhia Upazila
+      chakaria: Chakaria Upazila
+      coxs_Bazar: Cox's Bazar Sadar Upazila
+      kutubdia: Kutubdia Upazila
+      maheshkhali: Maheshkhali Upazila
+      pekua: Pekua Upazila
+      ramu: Ramu Upazila
+      teknaf: Teknaf Upazila
+      ukhia: Ukhia Upazila
     feni:
-      Chhagalnaiya: Chhagalnaiya Upazila
-      Daganbhuiyan: Daganbhuiyan Upazila
-      Feni: Feni Sadar Upazila
-      Fulgazi: Fulgazi Upazila
-      Parshuram: Parshuram Upazila
-      Sonagazi: Sonagazi Upazila
+      chhagalnaiya: Chhagalnaiya Upazila
+      daganbhuiyan: Daganbhuiyan Upazila
+      feni: Feni Sadar Upazila
+      fulgazi: Fulgazi Upazila
+      parshuram: Parshuram Upazila
+      sonagazi: Sonagazi Upazila
     khagrachhari:
-      Dighinala: Dighinala Upazila
-      Khagrachhari: Khagrachhari Upazila
-      Lakshmichhari: Lakshmichhari Upazila
-      Mahalchhari: Mahalchhari Upazila
-      Manikchhari: Manikchhari Upazila
-      Matiranga: Matiranga Upazila
-      Panchhari: Panchhari Upazila
-      Ramgarh: Ramgarh Upazila
+      dighinala: Dighinala Upazila
+      khagrachhari: Khagrachhari Upazila
+      lakshmichhari: Lakshmichhari Upazila
+      mahalchhari: Mahalchhari Upazila
+      manikchhari: Manikchhari Upazila
+      matiranga: Matiranga Upazila
+      panchhari: Panchhari Upazila
+      ramgarh: Ramgarh Upazila
     lakshmipur:
-      Kamalnagar: Kamalnagar Upazila
-      Lakshmipur: Lakshmipur Sadar Upazila
-      Raipur: Raipur Upazila
-      Ramganj: Ramganj Upazila
-      Ramgati: Ramgati Upazila
+      kamalnagar: Kamalnagar Upazila
+      lakshmipur: Lakshmipur Sadar Upazila
+      raipur: Raipur Upazila
+      ramganj: Ramganj Upazila
+      ramgati: Ramgati Upazila
     noakhali:
-      Begumganj: Begumganj Upazila
-      Chatkhil: Chatkhil Upazila
-      Companiganj: Companiganj Upazila
-      Hatiya: Hatiya Upazila
-      Kabirhat: Kabirhat Upazila
-      Noakhali: Noakhali Sadar Upazila
-      Senbagh: Senbagh Upazila
-      Sonaimuri: Sonaimuri Upazila
-      Subarnachar: Subarnachar Upazila
+      begumganj: Begumganj Upazila
+      chatkhil: Chatkhil Upazila
+      companiganj: Companiganj Upazila
+      hatiya: Hatiya Upazila
+      kabirhat: Kabirhat Upazila
+      noakhali: Noakhali Sadar Upazila
+      senbagh: Senbagh Upazila
+      sonaimuri: Sonaimuri Upazila
+      subarnachar: Subarnachar Upazila
     rangamati:
-      Bagaichhari: Bagaichhari Upazila
-      Barkal: Barkal Upazila
-      Belaichhari: Belaichhari Upazila
-      Juraichhari: Juraichhari Upazila
-      Kaptai: Kaptai Upazila
-      Kawkhali: Kawkhali (Betbunia) Upazila
-      Langadu: Langadu Upazila
-      Naniyachar: Naniyachar Upazila
-      Rajasthali: Rajasthali Upazila
-      Rangamati: Rangamati Sadar Upazila
+      bagaichhari: Bagaichhari Upazila
+      barkal: Barkal Upazila
+      belaichhari: Belaichhari Upazila
+      juraichhari: Juraichhari Upazila
+      kaptai: Kaptai Upazila
+      kawkhali: Kawkhali (Betbunia) Upazila
+      langadu: Langadu Upazila
+      naniyachar: Naniyachar Upazila
+      rajasthali: Rajasthali Upazila
+      rangamati: Rangamati Sadar Upazila
   dhaka:
-    dhaka: Dhaka
-    faridpur: Faridpur
-    gazipur: Gazipur
-    gopalganj: Gopalganj
-    kishoreganj: Kishoreganj
-    madaripur: Madaripur
-    manikganj: Manikganj
-    munshiganj: Munshiganj
-    narayanganj: Narayanganj
-    narsingdi: Narsingdi
-    rajbari: Rajbari
-    shariatpur: Shariatpur
-    tangail: Tangail
+    dhaka:
+      dhaka_north: Dhaka North City
+      dhaka_south: Dhaka South City
+      dhamrai: Dhamrai Upazila
+      dohar: Dohar Upazila
+      keraniganj: Keraniganj Upazila
+      nawabganj: Nawabganj Upazila
+      savar: Savar Upazila
+    faridpur:
+      alfadanga: Alfadanga Upazila
+      bhanga: Bhanga Upazila
+      boalmari: Boalmari Upazila
+      charbhadrasan: Charbhadrasan Upazila
+      faridpur: Faridpur Sadar Upazila
+      madhukhali: Madhukhali Upazila
+      nagarkanda: Nagarkanda Upazila
+      sadarpur: Sadarpur Upazila
+      saltha: Saltha Upazila
+    gazipur:
+      gazipur: Gazipur City
+      gazipur_sadar: Gazipur Sadar Upazila
+      kaliakair: Kaliakair Upazila
+      kaliganj: Kaliganj Upazila
+      kapasia: Kapasia Upazila
+      sreepur: Sreepur Upazila
+    gopalganj:
+      gopalganj: Gopalganj Sadar Upazila
+      kashiani: Kashiani Upazila
+      kotalipara: Kotalipara Upazila
+      muksudpur: Muksudpur Upazila
+      tungipara: Tungipara Upazila
+    kishoreganj:
+      astagram: Astagram Upazila
+      bajitpur: Bajitpur Upazila
+      bhairab: Bhairab Upazila
+      hossainpur: Hossainpur Upazila
+      itna: Itna Upazila
+      karimganj: Karimganj Upazila
+      katiadi: Katiadi Upazila
+      kishoreganj: Kishoreganj Sadar Upazila
+      kuliarchar: Kuliarchar Upazila
+      mithamain: Mithamain Upazila
+      nikli: Nikli Upazila
+      pakundia: Pakundia Upazila
+      tarail: Tarail Upazila
+    madaripur:
+      kalkini: Kalkini Upazila
+      madaripur: Madaripur Sadar Upazila
+      rajoir: Rajoir Upazila
+      shibchar: Shibchar Upazila
+    manikganj:
+      daulatpur: Daulatpur Upazila
+      ghior: Ghior Upazila
+      harirampur: Harirampur Upazila
+      manikgonj: Manikgonj Sadar Upazila
+      saturia: Saturia Upazila
+      shivalaya: Shivalaya Upazila
+      singair: Singair Upazila
+    munshiganj:
+      gazaria: Gazaria Upazila
+      lohajang: Lohajang Upazila
+      munshiganj: Munshiganj Sadar Upazila
+      sirajdikhan: Sirajdikhan Upazila
+      sreenagar: Sreenagar Upazila
+      tongibari: Tongibari Upazila
+    narayanganj:
+      araihazar: Araihazar Upazila
+      bandar: Bandar Upazila
+      narayanganj: Narayanganj Sadar Upazila
+      rupganj: Rupganj Upazila
+      sonargaon: Sonargaon Upazila
+    narsingdi:
+      belabo: Belabo Upazila
+      monohardi: Monohardi Upazila
+      narsingdi: Narsingdi Sadar Upazila
+      palash: Palash Upazila
+      raipura: Raipura Upazila
+      shibpur: Shibpur Upazila
+    rajbari:
+      baliakandi: Baliakandi Upazila
+      goalandaghat: Goalandaghat Upazila
+      kalukhali: Kalukhali Upazila
+      pangsha: Pangsha Upazila
+      rajbari: Rajbari Sadar Upazila
+    shariatpur:
+      bhedarganj: Bhedarganj Upazila
+      damudya: Damudya Upazila
+      gosairhat: Gosairhat Upazila
+      naria: Naria Upazila
+      shakhipur: Shakhipur Upazila
+      shariatpur: Shariatpur Sadar Upazila
+      zajira: Zajira Upazila
+    tangail:
+      basail: Basail Upazila
+      bhuapur: Bhuapur Upazila
+      delduar: Delduar Upazila
+      dhanbari: Dhanbari Upazila
+      ghatail: Ghatail Upazila
+      gopalpur: Gopalpur Upazila
+      kalihati: Kalihati Upazila
+      madhupur: Madhupur Upazila
+      mirzapur: Mirzapur Upazila
+      nagarpur: Nagarpur Upazila
+      sakhipur: Sakhipur Upazila
+      tangail: Tangail Sadar Upazila
   khulna:
-    bagerhat: Bagerhat
-    chuadanga: Chuadanga
-    jessore: Jessore
-    jhenaidah: Jhenaidah
-    khulna: Khulna
-    kushtia: Kushtia
-    magura: Magura
-    meherpur: Meherpur
-    narail: Narail
-    satkhira: Satkhira
+    bagerhat:
+      bagerhat: Bagerhat Sadar Upazila
+      chitalmari: Chitalmari Upazila
+      fakirhat: Fakirhat Upazila
+      kachua: Kachua Upazila
+      mollahat: Mollahat Upazila
+      mongla: Mongla Upazila
+      morrelganj: Morrelganj Upazila
+      rampal: Rampal Upazila
+      sarankhola: Sarankhola Upazila
+    chuadanga:
+      alamdanga: Alamdanga Upazila
+      chuadanga: Chuadanga Sadar Upazila
+      damurhuda: Damurhuda Upazila
+      jibannagar: Jibannagar Upazila
+    jessore:
+      abhaynagar: Abhaynagar Upazila
+      bagherpara: Bagherpara Upazila
+      chaugachha: Chaugachha Upazila
+      jessore: Jessore Sadar Upazila
+      jhikargachha: Jhikargachha Upazila
+      keshabpur: Keshabpur Upazila
+      manirampur: Manirampur Upazila
+      sharsha: Sharsha Upazila
+    jhenaidah:
+      harinakunda: Harinakunda Upazila
+      jhenaidah: Jhenaidah Sadar Upazila
+      kaliganj: Kaliganj Upazila
+      kotchandpur: Kotchandpur Upazila
+      maheshpur: Maheshpur Upazila
+      shailkupa: Shailkupa Upazila
+    khulna:
+      batiaghata: Batiaghata Upazila
+      dacope: Dacope Upazila
+      dighalia: Dighalia Upazila
+      dumuria: Dumuria Upazila
+      khulna: Khulna City
+      koyra: Koyra Upazila
+      paikgachha: Paikgachha Upazila
+      phultala: Phultala Upazila
+      rupsha: Rupsha Upazila
+      terokhada: Terokhada Upazila
+      daulatpur: Daulatpur Thana
+      harintana: Harintana Thana
+      khalishpur: Khalishpur Thana
+      khan_jahan_ali: Khan Jahan Ali Thana
+      kotwali: Kotwali Thana
+      sonadanga: Sonadanga Thana
+    kushtia:
+      bheramara: Bheramara Upazila
+      daulatpur: Daulatpur Upazila
+      khoksa: Khoksa Upazila
+      kumarkhali: Kumarkhali Upazila
+      kushtia: Kushtia Sadar Upazila
+      mirpur: Mirpur Upazila
+      shekhpara: Shekhpara Upazila
+    magura:
+      magura: Magura Sadar Upazila
+      mohammadpur: Mohammadpur Upazila
+      shalikha: Shalikha Upazila
+      sreepur: Sreepur Upazila
+    meherpur:
+      gangni: Gangni Upazila
+      meherpur: Meherpur Sadar Upazila
+      mujibnagar: Mujibnagar Upazila
+    narail:
+      kalia: Kalia Upazila
+      lohagara: Lohagara Upazila
+      naragati: Naragati Thana
+      narail: Narail Sadar Upazila
+    satkhira:
+      assasuni: Assasuni Upazila
+      debhata: Debhata Upazila
+      kalaroa: Kalaroa Upazila
+      kaliganj: Kaliganj Upazila
+      satkhira: Satkhira Sadar Upazila
+      shyamnagar: Shyamnagar Upazila
+      tala: Tala Upazila
   mymensingh:
-    jamalpur: Jamalpur
-    mymensingh: Mymensingh
-    netrokona: Netrokona
-    sherpur: Sherpur
+    jamalpur:
+      baksiganj: Baksiganj Upazila
+      dewanganj: Dewanganj Upazila
+      islampur: Islampur Upazila
+      jamalpur: Jamalpur Sadar Upazila
+      madarganj: Madarganj Upazila
+      melandaha: Melandaha Upazila
+      sarishabari: Sarishabari Upazila
+    mymensingh:
+      bhaluka: Bhaluka Upazila
+      dhobaura: Dhobaura Upazila
+      fulbaria: Fulbaria Upazila
+      gaffargaon: Gaffargaon Upazila
+      gauripur: Gauripur Upazila
+      haluaghat: Haluaghat Upazila
+      ishwarganj: Ishwarganj Upazila
+      muktagachha: Muktagachha Upazila
+      mymensingh: Mymensingh Sadar Upazila
+      nandail: Nandail Upazila
+      phulpur: Phulpur Upazila
+      tara_Khanda: Tara Khanda Upazila
+      trishal: Trishal Upazila
+    netrokona:
+      atpara: Atpara Upazila
+      barhatta: Barhatta Upazila
+      durgapur: Durgapur Upazila
+      khaliajuri: Khaliajuri Upazila
+      kalmakanda: Kalmakanda Upazila
+      kendua: Kendua Upazila
+      madan: Madan Upazila
+      mohanganj: Mohanganj Upazila
+      netrokona: Netrokona Sadar Upazila
+      purbadhala: Purbadhala Upazila
+    sherpur:
+      jhenaigati: Jhenaigati Upazila
+      nakla: Nakla Upazila
+      nalitabari: Nalitabari Upazila
+      sherpur: Sherpur Sadar Upazila
+      sreebardi: Sreebardi Upazila
   rajshahi:
-    bogra: Bogra
-    chapainawabganj: Chapainawabganj
-    joypurhat: Joypurhat
-    naogaon: Naogaon
-    natore: Natore
-    pabna: Pabna
-    rajshahi: Rajshahi
-    sirajganj: Sirajganj
+    bogra:
+      adamdighi: Adamdighi Upazila
+      bogra: Bogra Sadar Upazila
+      dhunat: Dhunat Upazila
+      dhupchanchia: Dhupchanchia Upazila
+      gabtali: Gabtali Upazila
+      kahaloo: Kahaloo Upazila
+      nandigram: Nandigram Upazila
+      sariakandi: Sariakandi Upazila
+      shajahanpur: Shajahanpur Upazila
+      sherpur: Sherpur Upazila
+      shibganj: Shibganj Upazila
+      sonatola: Sonatola Upazila
+    chapainawabganj:
+      bholahat: Bholahat Upazila
+      chapainawabganj: Chapainawabganj Sadar Upazila
+      gomastapur: Gomastapur Upazila
+      nachole: Nachole Upazila
+      shibganj: Shibganj Upazila
+    joypurhat:
+      akkelpur: Akkelpur Upazila
+      joypurhat: Joypurhat Sadar Upazila
+      kalai: Kalai Upazila
+      khetlal: Khetlal Upazila
+      panchbibi: Panchbibi Upazila
+    naogaon:
+      atrai: Atrai Upazila
+      badalgachhi: Badalgachhi Upazila
+      dhamoirhat: Dhamoirhat Upazila
+      manda: Manda Upazila
+      mohadevpur: Mohadevpur Upazila
+      naogaon: Naogaon Sadar Upazila
+      niamatpur: Niamatpur Upazila
+      patnitala: Patnitala Upazila
+      porsha: Porsha Upazila
+      raninagar: Raninagar Upazila
+      sapahar: Sapahar Upazila
+    natore:
+      bagatipara: Bagatipara Upazila
+      baraigram: Baraigram Upazila
+      gurudaspur: Gurudaspur Upazila
+      lalpur: Lalpur Upazila
+      naldanga: Naldanga Upazila
+      natore: Natore Sadar Upazila
+      singra: Singra Upazila
+    pabna:
+      ataikula: Ataikula Upazila
+      atgharia: Atgharia Upazila
+      bera: Bera Upazila
+      bhangura: Bhangura Upazila
+      chatmohar: Chatmohar Upazila
+      faridpur: Faridpur Upazila
+      ishwardi: Ishwardi Upazila
+      pabna: Pabna Sadar Upazila
+      santhia: Santhia Upazila
+      sujanagar: Sujanagar Upazila
+    rajshahi:
+      bagha: Bagha Upazila
+      bagmara: Bagmara Upazila
+      charghat: Charghat Upazila
+      durgapur: Durgapur Upazila
+      godagari: Godagari Upazila
+      mohanpur: Mohanpur Upazila
+      paba: Paba Upazila
+      puthia: Puthia Upazila
+      tanore: Tanore Upazila
+    sirajganj:
+      belkuchi: Belkuchi Upazila
+      chauhali: Chauhali Upazila
+      kamarkhanda: Kamarkhanda Upazila
+      kazipur: Kazipur Upazila
+      raiganj: Raiganj Upazila
+      shahjadpur: Shahjadpur Upazila
+      sirajganj: Sirajganj Sadar Upazila
+      tarash: Tarash Upazila
+      ullahpara: Ullahpara Upazila
   rangpur:
-    dinajpur: Dinajpur
-    gaibandha: Gaibandha
-    kurigram: Kurigram
-    lalmonirhat: Lalmonirhat
-    nilphamari: Nilphamari
-    panchagarh: Panchagarh
-    rangpur: Rangpur
-    thakurgaon: Thakurgaon
+    dinajpur:
+      biral: Biral Upazila
+      birampur: Birampur Upazila
+      birganj: Birganj Upazila
+      bochaganj: Bochaganj Upazila
+      chirirbandar: Chirirbandar Upazila
+      dinajpur: Dinajpur Sadar Upazila
+      ghoraghat: Ghoraghat Upazila
+      hakimpur: Hakimpur Upazila
+      kaharole: Kaharole Upazila
+      khansama: Khansama Upazila
+      nawabganj: Nawabganj Upazila
+      parbatipur: Parbatipur Upazila
+      phulbari: Phulbari Upazila
+    gaibandha:
+      gaibandha: Gaibandha Sadar Upazila
+      gobindaganj: Gobindaganj Upazila
+      palashbari: Palashbari Upazila
+      phulchhari: Phulchhari Upazila
+      sadullapur: Sadullapur Upazila
+      sughatta: Sughatta Upazila
+      sundarganj: Sundarganj Upazila
+    kurigram:
+      bhurungamari: Bhurungamari Upazila
+      char_rajibpur: Char Rajibpur Upazila
+      chilmari: Chilmari Upazila
+      kurigram: Kurigram Sadar Upazila
+      nageshwari: Nageshwari Upazila
+      phulbari: Phulbari Upazila
+      rajarhat: Rajarhat Upazila
+      raomari: Raomari Upazila
+      ulipur: Ulipur Upazila
+    lalmonirhat:
+      aditmari: Aditmari Upazila
+      hatibandha: Hatibandha Upazila
+      kaliganj: Kaliganj Upazila
+      lalmonirhat: Lalmonirhat Sadar Upazila
+      patgram: Patgram Upazila
+    nilphamari:
+      dimla: Dimla Upazila
+      domar: Domar Upazila
+      jaldhaka: Jaldhaka Upazila
+      kishoreganj: Kishoreganj Upazila
+      nilphamari: Nilphamari Sadar Upazila
+      saidpur: Saidpur Upazila
+    panchagarh:
+      atwari: Atwari Upazila
+      boda: Boda Upazila
+      debiganj: Debiganj Upazila
+      panchagarh: Panchagarh Sadar Upazila
+      tetulia: Tetulia Upazila
+    rangpur:
+      badarganj: Badarganj Upazila
+      gangachhara: Gangachhara Upazila
+      kaunia: Kaunia Upazila
+      mithapukur: Mithapukur Upazila
+      pirgachha: Pirgachha Upazila
+      pirganj: Pirganj Upazila
+      rangpur: Rangpur Sadar Upazila
+      taraganj: Taraganj Upazila
+    thakurgaon:
+      baliadangi: Baliadangi Upazila
+      haripur: Haripur Upazila
+      pirganj: Pirganj Upazila
+      ranisankail: Ranisankail Upazila
+      thakurgaon: Thakurgaon Sadar Upazila
   sylhet:
-    habiganj: Habiganj
-    moulvibazar: Moulvibazar
-    sunamganj: Sunamganj
-    sylhet: Sylhet
+    habiganj:
+      ajmiriganj: Ajmiriganj Upazila
+      bahubal: Bahubal Upazila
+      baniyachong: Baniyachong Upazila
+      chunarughat: Chunarughat Upazila
+      habiganj: Habiganj Sadar Upazila
+      lakhai: Lakhai Upazila
+      madhabpur: Madhabpur Upazila
+      nabiganj: Nabiganj Upazila
+    moulvibazar:
+      barlekha: Barlekha Upazila
+      juri: Juri Upazila
+      kamalganj: Kamalganj Upazila
+      kulaura: Kulaura Upazila
+      moulvibazar: Moulvibazar Sadar Upazila
+      rajnagar: Rajnagar Upazila
+      sreemangal: Sreemangal Upazila
+    sunamganj:
+      bishwamvarpur: Bishwamvarpur Upazila
+      chhatak: Chhatak Upazila
+      derai: Derai Upazila
+      dharamapasha: Dharamapasha Upazila
+      dowarabazar: Dowarabazar Upazila
+      jagannathpur: Jagannathpur Upazila
+      jamalganj: Jamalganj Upazila
+      south_sunamganj: South Sunamganj Upazila
+      sullah: Sullah Upazila
+      sunamganj: Sunamganj Sadar Upazila
+      tahirpur: Tahirpur Upazila
+    sylhet:
+      balaganj: Balaganj Upazila
+      beanibazar: Beanibazar Upazila
+      bishwanath: Bishwanath Upazila
+      companigonj: Companigonj Upazila
+      fenchuganj: Fenchuganj Upazila
+      golapganj: Golapganj Upazila
+      gowainghat: Gowainghat Upazila
+      jaintiapur: Jaintiapur Upazila
+      kanaighat: Kanaighat Upazila
+      osmani_nagar: Osmani Nagar Upazila
+      south_shurma: South Shurma Upazila
+      sylhet: Sylhet Sadar Upazila
+      zakiganj: Zakiganj Upazila
