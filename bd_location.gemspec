@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'location/version'
+require 'bd_location/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'location'
-  spec.version       = Location::VERSION
+  spec.name          = 'bd_location'
+  spec.version       = BDLocation::VERSION
   spec.authors       = ['Md. Tauhidul Islam']
   spec.email         = ['tauhidul35@gmail.com']
   spec.summary       = %q{BD location}

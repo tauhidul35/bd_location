@@ -1,7 +1,7 @@
-require 'location/version'
+require 'bd_location/version'
 require 'yaml'
 
-module Location
+module BDLocation
   locale = :en
   file_path = File.join(File.dirname(__FILE__), "../locales/#{locale.to_s}.yaml")
   data = YAML.load_file file_path
